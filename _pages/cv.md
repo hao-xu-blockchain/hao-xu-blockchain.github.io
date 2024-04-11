@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Aerospace Engineering (Avionics), University of Sheffield, 2017
+* M.S. in Aerospace Vehicle Design (Avionics), Cranfield University, 2018
+* Ph.D in Wireless Blockchain, University of Glasgow, 2019-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2021: Visiting Scholar 
+  * China Mobile Research Institution
+  * Duties included: O-RAN Security Representative of China Mobile
+  * Host Scientist: Dr Chih-Lin I, the Chief Scientist of China Mobile
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021-2024: Senior Researcher
+  * You Know Who
+  * Duties included: Develop Blockchain Radio Access Network and Decentralized ICT Infrastructure
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Radio Access Network
+* Blockchain 
+  * Wireless Distributed Consensus
+  * Smart Contract
+  * Consensus
+* Web 3.0
+* Metaverse
+* Decentralized ICT
+* DePIN
 
 Publications
 ======
