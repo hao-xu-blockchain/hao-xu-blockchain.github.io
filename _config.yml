@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr Hao Xu / DecentNetworkLab"
+title                    : "Hao Xu Assistant Professor/ DecentNetworkLab"
 title_separator          : "-"
 name                     : &name "Hao Xu"
 description              : &description "Assistant Professor at Tongji University"
-url                      : https://DecentNetworkLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hao-xu-blockchain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DecentNetworkLab/DecentNetworkLab.github.io"
+repository               : "hao-xu-blockchain/hao-xu-blockchain.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,41 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr Hao Xu"
+  name             : "Hao Xu"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Tongji University, Former Senior Researcher at Huawei."
+  bio              : "Assistant Professor at Tongji University, previously a senior wireless network researcher at YouKnowWHO. An O-RAN Security Standard Representative of China Mobile "
   location         : "Shanghai"
-  employer         :
-  pubmed           : 
+  employer         : "Tongji University"
   googlescholar    : "https://scholar.google.com/citations?user=OXRAqDMAAAAJ&hl=en"
   email            : "Hao.Xu@ieee.org"
   researchgate     : "https://www.researchgate.net/profile/Hao-Xu-153"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "DecentNetworkLab"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/hao-xu-24141285/"
   orcid            : "https://orcid.org/0000-0001-7237-7905"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "realHaoXu"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
