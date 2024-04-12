@@ -1,0 +1,26 @@
+pub_date	title	venue	excerpt	citation	url_slug	paper_url
+2024/1/1	AI and Blockchain Enabled Future Wireless Networks: A Survey And Outlook	Distributed Ledger Technologies: Research and Practice		" Z. Zhou, O. Onireti, H. Xu, L. Zhang, and M. Imran, ¡°AI and Blockchain Enabled Future Wireless Networks: A Survey And Outlook,¡± Distrib. Ledger Technol., 2024, doi: 10.1145/3644369."	paper-number25	
+2023/1/2	A Review of Gaps between Web 4.0 and Web 3.0 Intelligent Network Infrastructure	2024 IEEE World Forum on Internet of Things		"Your Name, You. (2010). ""Paper Title Number 2."" <i>Journal 1</i>. 1(2)."	paper-number24	
+2023/1/3	When Web 3.0 Meets Reality: A Hyperdimensional Fractal Polytope P2P Ecosystems	arXiv:2308.06829 Search...		"Your Name, You. (2015). ""Paper Title Number 3."" <i>Journal 1</i>. 1(3)."	paper-number23	
+2023/1/4	deController: a Web3 native cyberspace infrastructure perspective	IEEE communications magazine			paper-number22	
+2023/1/5	DecentRAN: Decentralized Radio Access Network for 5.5 G and beyond	2023 IEEE International Conference on Communications Workshop			paper-number21	
+2023/1/6	Wireless Distributed Consensus for Connected Autonomous Systems	IEEE Internet of Things Journal			paper-number20	
+2023/1/7	An Algorithm of Three-dimensional Shape Dissection with Mesh Reconstruction	2023 IEEE International Conference on Multimedia and Expo Workshops			paper-number19	
+2022/1/8	DISTERNING: Distance Estimation using Machine Learning Approach for COVID-19 Contact Tracing and Beyond	IEEE JSAC issue on Edge-Based Wireless Communications Technologies to Counter Communicable Infectious Diseases			paper-number18	
+2022/1/9	Metaverse Native Communication: A Blockchain and Spectrum Prospective	2022 IEEE International Conference on Communications Workshop - SSI-Blockchain			paper-number17	
+2022/1/10	The Implications from Distributed Ledger Technology: A Legal and economical aspect	Handbook of Blockchain Analytics			paper-number16	
+2022/1/11	"Recordism: A social-scientific prospect of blockchain from social, legal, financial, and technological perspectives"	arXiv preprint arXiv:2204.00823			paper-number15	
+2022/1/12	A Privacy-Preserving Blockchain Platform for a Data Marketplace	Distributed Ledger Technologies: Research and Practice			paper-number14	
+2022/1/13	BeSharing: A Copyright-aware Blockchain-enabled Knowledge Sharing Platform	2022 4th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)			paper-number13	
+2021/1/14	How Much Communication Resource is Needed to Run a Wireless Blockchain Network?	IEEE Network			paper-number12	
+2021/1/15	Security Analysis of Sharding in the Blockchain System	"2021 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications"			paper-number11	
+2021/1/16	BE-RAN: Blockchain-enabled RAN with Decentralized Identity Management and Privacy-Preserving Communication	arXiv preprint arXiv:2101.10856			paper-number10	
+2021/1/17	6G Resource Management and Sharing: Blockchain and O-RAN	Blockchains: Empowering Technologies and Industrial Applications			paper-number9	
+2021/1/18	Blockchain-enabled  COVID-19 Contact Tracing Solutions	"Wireless Blockchain: Principles, Technologies and Applications"			paper-number8	
+2021/1/19	BeepTrace for COVID-19 Pandemic: A Demo	3rd Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)			paper-number7	
+2020/1/20	Low reliable and low latency communications for mission critical distributed industrial internet of things	IEEE Communications Letters			paper-number6	
+2020/1/21	BeepTrace: Blockchain-enabled Privacy-preserving Contact Tracing for COVID-19 Pandemic and Beyond	IEEE Internet of Things Journal			paper-number5	
+2020/1/22	RAFT based wireless blockchain networks in the presence of malicious jamming	IEEE wireless communications letters			paper-number4	
+2020/1/23	Blockchain-enabled Resource Management and Sharing for 6G Communications	Digital Communications and Networks			paper-number3	
+2020/1/24	A Scalable Multi-layer PBFT Consensus for Blockchain	IEEE Transactions on Parallel and Distributed Systems			paper-number2	
+2020/1/25	Privacy-preserving contact tracing and public risk assessment using blockchain for COVID-19 pandemic	IEEE Internet of Things Magazine			paper-number1	
